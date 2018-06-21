@@ -3,3 +3,6 @@ require_relative "../lib/greeting.rb"
 
 # code your CLI here!
 
+
+gets.
+greeting(name)
